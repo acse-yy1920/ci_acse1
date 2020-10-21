@@ -1,4 +1,4 @@
-  from numpy import sqrt
+from numpy import sqrt
 from simple_functions.functions1 import factorial
 from functools import lru_cache
 
